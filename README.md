@@ -1,6 +1,6 @@
-# Make: An Internet of Things
+# Sensor Applications with the ESP8266
 
-This repository contains code, tools, additional reference documentation and firmware to accompany my upcoming book "Make: An Internet of Things."
+This repository contains code, tools, additional reference documentation and firmware to accompany my upcoming book "Sensor Applications with the ESP8266."
 
 ## Getting Started.
 
