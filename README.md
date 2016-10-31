@@ -1,6 +1,6 @@
-# Sensor Applications with the ESP8266
+# Learning ESP8266
  
-This repository contains code, tools, additional reference documentation and firmware to accompany my upcoming book "Sensor Applications with the ESP8266."
+This repository contains code, tools, additional reference documentation and firmware to accompany my upcoming book "Learning ESP8266."
 
 ## Getting Started.
 
