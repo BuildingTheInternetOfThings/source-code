@@ -1,6 +1,6 @@
-# Learning ESP8266
+# Building the Internet of Things
  
-This repository contains code, tools, additional reference documentation and firmware to accompany my upcoming book "Learning ESP8266."
+This repository contains code, tools, additional reference documentation and firmware to accompany my upcoming book "Building the Internet of Things."
 
 ## Getting Started.
 
